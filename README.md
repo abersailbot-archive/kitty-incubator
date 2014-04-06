@@ -30,6 +30,7 @@ Vision for guiding through the navigational accuracy task.
   - Hybrid system
   - Camera used to guide between the buoys
   - Navigate using weighted average between input from vision and GPS waypoints
+    - weight based on the certainty of buoy positions
   - Do circle detection on orange looking objects
   - Move the boat to try to keep both circles at equal distances from the
     center of the field of view
