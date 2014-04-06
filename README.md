@@ -9,6 +9,9 @@ Electronics rail clip
 Rails for the electronics box to clip onto.
 
   - Use fir tree clips
+
+    ![clip](https://raw.githubusercontent.com/abersailbot/kitty-incubator/master/fir_tree_clip.jpg)
+
   - Two rails
   - Rails made from aluminum
 
