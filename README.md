@@ -15,10 +15,12 @@ Rails for the electronics box to clip onto.
   - Two rails
   - Rails made from aluminum
 
-External power switch
+Power switch
 ---------------------
 
 Have a cool looking toggle switch with an LED on it.
+
+Stick it on the outside of the electronics box.
 
 Vision system
 -------------
