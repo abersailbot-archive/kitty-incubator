@@ -3,17 +3,35 @@ Kitty-incubator
 
 Incubation for kitty ideas and plans
 
+Sailing Algorithm
+-----------------
+
+Sail down lines, rather than between waypoints.
+
+  - Implement using vectors
+  - Use a bunch of simple layers of vectors
+    - just add them together
+
+  - vector layers for each point `(i, j)`:
+    - unit vector pointing to the nearest point on the nearest line
+      - multiplied by a factor of the distance from the line
+
+    - unit vector pointing in the same direction as the nearest line
+
+
 Electronics rail clip
 ---------------------
 
 Rails for the electronics box to clip onto.
 
-  - Use fir tree clips
+  - Use pipe clips
 
     ![clip](https://raw.githubusercontent.com/abersailbot/kitty-incubator/master/fir_tree_clip.jpg)
 
   - Two rails
   - Rails made from aluminum
+  - Use 15mm clips, 10mm aluminum
+  - Add felt padding to the upper half of the clip
 
 Power switch
 ---------------------
