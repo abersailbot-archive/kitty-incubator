@@ -8,7 +8,8 @@ Sailing Algorithm
 
 Sail down lines, rather than between waypoints.
 
-  - Implement using vectors
+  - Implement using numpy vectors
+    - numpy is 'free' - preinstalled on target device
   - Use a bunch of simple layers of vectors
     - just add them together
 
