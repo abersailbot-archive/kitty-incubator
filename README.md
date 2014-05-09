@@ -3,6 +3,19 @@ Kitty-incubator
 
 Incubation for kitty ideas and plans
 
+Fixes after test #1
+-------------------
+
+  - Water all over the place in the boat - this is not very good at all.
+  - Rear mast step for high winds (using the current prototype sail)
+  - Fasten down electronics
+  - Mounting at end of boom
+    - epoxy at the end after cutting
+    - drill hole
+    - loop rope around hole and into sail
+  - Make kicking strap removable
+  - Increase the size of the taper at the top of the sail
+
 Sailing Algorithm
 -----------------
 
